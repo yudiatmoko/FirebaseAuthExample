@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953433784965",
+    "project_id": "fir-authexample-ilham",
+    "storage_bucket": "fir-authexample-ilham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953433784965:android:9f9ba2e567e4e8544b5fec",
+        "android_client_info": {
+          "package_name": "com.catnip.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYjuNOcDF45q45MBRyuhojy4Nuyr3EIic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
